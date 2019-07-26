@@ -6,7 +6,7 @@ class LiczbyPierwsze {
         int n = in.nextInt();
         for (int i = 0; i < n; i++) {
             int number = in.nextInt();
-            if (isPrime(number) && number != 1)
+            if (isPrime(number) && number > 1)
                 System.out.println("TAK");
             else
                 System.out.println("NIE");
