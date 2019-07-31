@@ -11,7 +11,7 @@ class NWD {
         }
     }
 
-    static int nwd(int a, int b) {
+    public static int nwd(int a, int b) {
         while (b != 0) {
             int c = a % b;
             a = b;
