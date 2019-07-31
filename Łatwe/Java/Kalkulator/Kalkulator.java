@@ -11,7 +11,7 @@ class Kalkulator {
         }
     }
 
-    static int calculateTwoIntegers(char sign, int firstNumber, int secondNumber) {
+    public static int calculateTwoIntegers(char sign, int firstNumber, int secondNumber) {
         switch (sign) {
             case '+':
                 return firstNumber + secondNumber;
