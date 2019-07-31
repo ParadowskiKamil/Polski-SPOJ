@@ -10,7 +10,7 @@ class Flamaster {
         }
     }
 
-    static void printReducedString(String str) {
+    public static void printReducedString(String str) {
         str += ' ';
         for (int j = 0; j < str.length() - 1; j++) {
             int counter = 1;
