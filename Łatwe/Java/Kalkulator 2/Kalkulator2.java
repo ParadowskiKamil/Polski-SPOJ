@@ -15,7 +15,7 @@ class Kalkulator2 {
         }
     }
 
-    static int calculateTwoIntegers(int[] memory, char sign, int index, int number) {
+    public static int calculateTwoIntegers(int[] memory, char sign, int index, int number) {
         switch (sign) {
             case '+':
                 return memory[index] + memory[number];
