@@ -11,7 +11,7 @@ class CzyUmieszPotegowac {
         }
     }
 
-    static void printDigitOfUnityOfPower(int a, int b) {
+    public static void printDigitOfUnityOfPower(int a, int b) {
         int[][] firstFourDigitsOfFirstTenPowers = {
                 {0, 0, 0, 0},
                 {1, 1, 1, 1},
