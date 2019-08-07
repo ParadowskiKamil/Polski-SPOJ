@@ -1,3 +1,7 @@
+# Polski SPOJ
+
+![alt text](https://pl.spoj.com/gfx/2015e.png)
+
 W tym repozytorium umieszczam wszystkie zadania, które udało mi się do tej pory rozwiązać na stronie pl.spoj.com.
 Planuje rozwiązać jak największą ilość tych zadań w różnych językach programowania.
 Zadania są podzielone na cztery poziomy trudności:
