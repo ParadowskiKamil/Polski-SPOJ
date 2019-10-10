@@ -5,13 +5,13 @@ int main() {
     std::cin >> n;
     long long maximumProfit = 0LL;
     long long sum = 0LL;
-    int number;
+    int income;
     for (int i = 0; i < n; i++) {
-        std::cin >> number;
+        std::cin >> income;
         if (sum > 0)
-            sum += number;
+            sum += income;
         else
-            sum = number;
+            sum = income;
         if (sum > maximumProfit)
             maximumProfit = sum;
     }
