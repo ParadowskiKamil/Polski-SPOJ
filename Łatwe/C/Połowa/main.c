@@ -8,7 +8,7 @@ int main()
     for (int i = 0; i < t; i++)
     {
         char string[2001];
-        scanf("%s", &string);
+        scanf("%s", string);
         char firstHalfOfString[strlen(string) / 2 + 1];
         strncpy(firstHalfOfString, string, strlen(string) / 2);
         firstHalfOfString[strlen(string) / 2] = '\0';
