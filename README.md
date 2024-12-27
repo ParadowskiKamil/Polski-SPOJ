@@ -1,6 +1,6 @@
 # Polski SPOJ
 
-https://pl.spoj.com/
+https://pl.spoj.com
 
 ![alt text](https://pl.spoj.com/gfx/2015e.png)
 
